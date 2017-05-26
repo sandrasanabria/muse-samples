@@ -4,7 +4,7 @@
       "application": "[Your Name] News River Sectioned Sample",
       "payload": {
         "match": {
-		  "user-name": "[Your Name]",
+		  "user-name": "sandra",
           "url": "homepage"
         },
         "include-files": [
@@ -16,9 +16,9 @@
     }
   ],
   "name": "[Your Name] News River Sectioned Sample",
-  "description": "[Your Name] News River Sectioned Sample",
+  "description": "sandra News River Sectioned Sample",
   "services": [
     "Muse"
   ],
-  "title": "[Your Name] News River Sectioned Sample"
+  "title": "sandra News River Sectioned Sample"
 }
